@@ -27,7 +27,7 @@ Teremos a partir da tomada: tensão 127 volts, corrente alternada e frequência 
 | 1x | Capacitor Eletrolítico 470uF x 35V | R$ 2,80 |
 | **Total** | | **R$ 68,10** |
 
-> A nota fiscal original dos componentes está disponível em [`assets/nota_fiscal.png`](assets/nota_fiscal.png).
+> A nota fiscal original dos componentes está disponível em [`nota_fiscal.png`](nota_fiscal.png).
 
 O transformador e o varistor de proteção contra surtos, utilizados na etapa de entrada do circuito, foram reaproveitados de aquisições anteriores do grupo e por isso não constam na nota fiscal acima — suas funções, no entanto, seguem descritas normalmente a seguir.
 
@@ -65,7 +65,7 @@ Para um ripple de tensão de 10% na saída do retificador em ponte completa (fre
 
 ## Link do circuito no Falstad
 
-A simulação completa do circuito (arquivo exportado do CircuitJS/Falstad) está disponível em [`assets/simulacao_falstad.txt`](assets/simulacao_falstad.txt). Para visualizá-la, basta importar o conteúdo do arquivo em [https://www.falstad.com/circuit/](https://www.falstad.com/circuit/) através da opção *Import From Text*.
+A simulação completa do circuito (arquivo exportado do CircuitJS/Falstad) está disponível em [`simulacao_falstad.txt`](simulacao_falstad.txt). Para visualizá-la, basta importar o conteúdo do arquivo em [https://www.falstad.com/circuit/](https://www.falstad.com/circuit/) através da opção *Import From Text*.
 
 ## Imagem esquemático da PCB
 
@@ -75,8 +75,8 @@ A simulação completa do circuito (arquivo exportado do CircuitJS/Falstad) est�
 
 Os arquivos com o desenho das camadas da placa, gerados a partir do EasyEDA e utilizados como molde para a fabricação da PCB, estão disponíveis em:
 
-- [`assets/PCB_Fonte_gerber_camada1.pdf`](assets/PCB_Fonte_gerber_camada1.pdf)
-- [`assets/PCB_Fonte_gerber_camada2.pdf`](assets/PCB_Fonte_gerber_camada2.pdf)
+- [`PCB_Fonte_gerber_camada1.pdf`](PCB_Fonte_gerber_camada1.pdf)
+- [`PCB_Fonte_gerber_camada2.pdf`](PCB_Fonte_gerber_camada2.pdf)
 
 ## Vídeo no Youtube
 
