@@ -80,7 +80,7 @@ Os arquivos com o desenho das camadas da placa, gerados a partir do EasyEDA e ut
 
 ## Vídeo no Youtube
 
-Link:https://youtu.be/yVW4G5obYL8 
+Link: https://youtu.be/yVW4G5obYL8 
 
 ## Alunos:
 
